@@ -5,7 +5,3 @@ OTP.py is a command line tool, OTP-GUI.py is a tkinter GUI program.
 bitwise XOR uses the same principle as OTP but it works with byte data not just with ASCII text, that means anything can be encrypted with it, images, movies, songs, etc.
 
 bitwise_XOR_GUI.exe is a windows executable made with pyinstaller.
-
-![](https://git.kiiro.dev/asa/encryption-algorithms/raw/branch/main/images/Screenshot%202022-04-15%20204029.png)
-![](https://git.kiiro.dev/asa/encryption-algorithms/raw/branch/main/images/Screenshot%202022-04-15%20204526.png)
-![](https://git.kiiro.dev/asa/encryption-algorithms/raw/branch/main/images/Screenshot%202022-04-15%20204609.png)
